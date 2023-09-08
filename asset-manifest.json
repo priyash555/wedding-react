@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wedding-react/static/css/main.6098fe7e.chunk.css",
+    "main.js": "/wedding-react/static/js/main.f06a85f8.chunk.js",
+    "main.js.map": "/wedding-react/static/js/main.f06a85f8.chunk.js.map",
+    "runtime-main.js": "/wedding-react/static/js/runtime-main.5a12afa2.js",
+    "runtime-main.js.map": "/wedding-react/static/js/runtime-main.5a12afa2.js.map",
+    "static/js/2.df7ccbeb.chunk.js": "/wedding-react/static/js/2.df7ccbeb.chunk.js",
+    "static/js/2.df7ccbeb.chunk.js.map": "/wedding-react/static/js/2.df7ccbeb.chunk.js.map",
+    "index.html": "/wedding-react/index.html",
+    "static/css/main.6098fe7e.chunk.css.map": "/wedding-react/static/css/main.6098fe7e.chunk.css.map",
+    "static/js/2.df7ccbeb.chunk.js.LICENSE.txt": "/wedding-react/static/js/2.df7ccbeb.chunk.js.LICENSE.txt",
+    "static/media/image1.8c821121.png": "/wedding-react/static/media/image1.8c821121.png",
+    "static/media/image2.87a4832f.png": "/wedding-react/static/media/image2.87a4832f.png",
+    "static/media/image3.be22d9ec.png": "/wedding-react/static/media/image3.be22d9ec.png",
+    "static/media/image4.51ee8a49.png": "/wedding-react/static/media/image4.51ee8a49.png",
+    "static/media/image5.cedab0a2.png": "/wedding-react/static/media/image5.cedab0a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a12afa2.js",
+    "static/js/2.df7ccbeb.chunk.js",
+    "static/css/main.6098fe7e.chunk.css",
+    "static/js/main.f06a85f8.chunk.js"
+  ]
+}
